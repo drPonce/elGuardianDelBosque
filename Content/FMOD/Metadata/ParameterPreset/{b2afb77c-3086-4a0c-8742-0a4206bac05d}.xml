@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{b2afb77c-3086-4a0c-8742-0a4206bac05d}">
+		<property name="name">
+			<value>parkWalk_mateo</value>
+		</property>
+		<relationship name="folder">
+			<destination>{128f411f-b0c5-4c46-adb9-1848d60309b7}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ee6032ce-2f3b-4c09-9544-12d6df82dd75}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ee6032ce-2f3b-4c09-9544-12d6df82dd75}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

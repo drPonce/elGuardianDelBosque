@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{e9296ddc-1d2b-4034-969b-a3107841d6ce}">
+		<property name="name">
+			<value>parkWalk_tree</value>
+		</property>
+		<relationship name="folder">
+			<destination>{128f411f-b0c5-4c46-adb9-1848d60309b7}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{792a0432-fd18-4626-8a98-054d45d4375d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{792a0432-fd18-4626-8a98-054d45d4375d}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{afc90594-f591-41bf-9eff-d68825b2b0c1}">
+		<property name="assetPath">
+			<value>parkWalk_quino-Percusión_2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>83.625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a6a7af3d-d6f6-4697-998c-d052fd8856a9}</destination>
+		</relationship>
+	</object>
+</objects>
